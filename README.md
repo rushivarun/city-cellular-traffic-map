@@ -49,7 +49,7 @@ processing about great circle distance.
 * Traffic trace file (1625680 rows, 5 columns)
 
 > * BS: identity of each cellular base station in this public data.
-> * Time_hour: hourly timestamp in UNIX epoch time (time zone GMT+8).
+> * Time: 5 min timestamp in UNIX epoch time (time zone GMT+8).
 > * Users: the number of active users associated with specific base station and hour.
 > * Packets: the number of transferd packets associated with specific base station and hour.
 > * Bytes: the number of transferd bytes associated with specific base station and hour.
